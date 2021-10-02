@@ -24,12 +24,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Lcobucci\\Clock\\": "src"
+            "moimage\\Clock\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Lcobucci\\Clock\\": "test"
+            "moimage\\Clock\\": "test"
         }
     },
     "config": {
