@@ -1,11 +1,11 @@
 {
-    "name": "mo/image",
+    "name": "lb626/image",
     "description": "php image use",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "momingqimiao",
+            "name": "lb626",
             "email": "4504462@qq.com"
         }
     ],
