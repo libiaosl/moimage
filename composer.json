@@ -1,12 +1,12 @@
 {
-    "name": "lcobucci/clock",
-    "description": "Yet another clock abstraction",
+    "name": "mo/image",
+    "description": "php image use",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Luís Cobucci",
-            "email": "lcobucci@gmail.com"
+            "name": "momingqimiao",
+            "email": "4504462@qq.com"
         }
     ],
     "require": {
@@ -14,7 +14,6 @@
     },
     "require-dev": {
         "infection/infection": "^0.17",
-        "lcobucci/coding-standard": "^6.0",
         "phpstan/extension-installer": "^1.0",
         "phpstan/phpstan": "^0.12",
         "phpstan/phpstan-deprecation-rules": "^0.12",
